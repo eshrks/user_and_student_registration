@@ -26,4 +26,6 @@
 
 
 # Video Guide 
-[![vid](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FywMYKWbnCEsAAAAM%2Fmoai.gif&f=1&nofb=1&ipt=ad47fcc2778f3b019bfe933ff06725c70c28ac7914138d55d1d9c71cc809c8a5&ipo=images)](https://vimeo.com/884657222)
+[![vid](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FywMYKWbnCEsAAAAM%2Fmoai.gif&f=1&nofb=1&ipt=ad47fcc2778f3b019bfe933ff06725c70c28ac7914138d55d1d9c71cc809c8a5&ipo=images)](https://vimeo.com/886894027)
+
+
