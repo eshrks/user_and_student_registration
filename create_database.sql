@@ -1,8 +1,8 @@
-CREATE DATABASE students_namaewa;
+CREATE DATABASE students_namaewa; -- replace namaewa with your name
 
-USE students_namaewa; -- replace yourname with your actual name
+USE students_namaewa; -- replace namaewa with your name
 
-CREATE TABLE users( -- should be tbe same as what is in " " at the $table_name
+CREATE TABLE users(
 	id INT PRIMARY KEY AUTO_INCREMENT,
 	userLevel VARCHAR(15),
 	lastName VARCHAR(50),
@@ -15,7 +15,7 @@ CREATE TABLE users( -- should be tbe same as what is in " " at the $table_name
 	isDeleted INT(1) DEFAULT 0
 );
 
-CREATE TABLE students( -- should be tbe same as what is in " " at the $table_name
+CREATE TABLE students(
 	id INT PRIMARY KEY AUTO_INCREMENT,
 	userLevel VARCHAR(15),
 	studentNumber VARCHAR(13),
